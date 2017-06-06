@@ -1,0 +1,1 @@
+print "I am %s, %d years old , %s,and have %d legs." % ("Lisa", 38, "tall", 2)
